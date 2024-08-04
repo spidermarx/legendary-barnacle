@@ -1,0 +1,11 @@
+
+# Archivos de log
+*.log
+
+# Archivos de jupyter
+.ipynb_checkpoints
+
+# Carpetas con los datos y las libretas
+
+data/
+notebook/
