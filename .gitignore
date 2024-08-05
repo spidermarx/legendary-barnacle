@@ -9,3 +9,6 @@
 
 data/
 notebook/
+
+.pytest_cache/
+pytest.ini
