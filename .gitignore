@@ -1,6 +1,6 @@
 
 # Archivos de log
-*.log
+*.txt
 
 # Archivos de jupyter
 .ipynb_checkpoints
@@ -11,4 +11,3 @@ __pycache__/
 # Carpetas con los datos y las libretas
 data/
 notebook/
-
