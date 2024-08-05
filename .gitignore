@@ -4,11 +4,11 @@
 
 # Archivos de jupyter
 .ipynb_checkpoints
+.pytest_cache/
+pytest.ini
+__pycache__/
 
 # Carpetas con los datos y las libretas
-
 data/
 notebook/
 
-.pytest_cache/
-pytest.ini
